@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Farid\\Desktop\\TaskApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Farid\\Desktop\\Web HomeTasks\\TaskApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D72939E-FEC0-47C7-AC77-E27423480CFC}|TaskApp\\TaskApp.csproj|c:\\users\\farid\\desktop\\taskapp\\taskapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D72939E-FEC0-47C7-AC77-E27423480CFC}|TaskApp\\TaskApp.csproj|c:\\users\\farid\\desktop\\web hometasks\\taskapp\\taskapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D72939E-FEC0-47C7-AC77-E27423480CFC}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\TaskApp\\TaskApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Web HomeTasks\\TaskApp\\TaskApp\\Program.cs",
               "RelativeDocumentMoniker": "TaskApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Farid\\Desktop\\TaskApp\\TaskApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Web HomeTasks\\TaskApp\\TaskApp\\Program.cs",
               "RelativeToolTip": "TaskApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

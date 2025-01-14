@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Farid\\Desktop\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6158CE89-DA5B-429F-867B-0F55BBF32752}|WebApplication1\\WebApplication1.csproj|c:\\users\\farid\\desktop\\webapplication1\\webapplication1\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6158CE89-DA5B-429F-867B-0F55BBF32752}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6158CE89-DA5B-429F-867B-0F55BBF32752}|WebApplication1\\WebApplication1.csproj|c:\\users\\farid\\desktop\\webapplication1\\webapplication1\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6158CE89-DA5B-429F-867B-0F55BBF32752}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6158CE89-DA5B-429F-867B-0F55BBF32752}|WebApplication1\\WebApplication1.csproj|c:\\users\\farid\\desktop\\webapplication1\\webapplication1\\viewmodels\\products\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6158CE89-DA5B-429F-867B-0F55BBF32752}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\products\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6158CE89-DA5B-429F-867B-0F55BBF32752}|WebApplication1\\WebApplication1.csproj|c:\\users\\farid\\desktop\\webapplication1\\webapplication1\\viewmodels\\products\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6158CE89-DA5B-429F-867B-0F55BBF32752}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\products\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 161,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T22:58:09.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\WebApplication1\\WebApplication1\\ViewModels\\Products\\ProductCreateVM.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\Products\\ProductCreateVM.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\WebApplication1\\WebApplication1\\ViewModels\\Products\\ProductCreateVM.cs",
+              "RelativeToolTip": "WebApplication1\\ViewModels\\Products\\ProductCreateVM.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:54:33.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\WebApplication1\\WebApplication1\\ViewModels\\Products\\ProductUpdateVM.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\Products\\ProductUpdateVM.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\WebApplication1\\WebApplication1\\ViewModels\\Products\\ProductUpdateVM.cs",
+              "RelativeToolTip": "WebApplication1\\ViewModels\\Products\\ProductUpdateVM.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:54:18.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAuwF0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:45:37.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
